@@ -1,0 +1,13 @@
+Django>=4.2
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+django-cors-headers
+python-dotenv
+Pillow
+django-filter
+google-auth
+channels
+channels-redis
+daphne
+PyJWT
